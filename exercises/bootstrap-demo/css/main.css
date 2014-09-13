@@ -1,0 +1,26 @@
+body{
+    background-image: url("../images/texture-1.jpg");
+    background-position: top left;
+    background-repeat: repeat;
+}
+header{
+    background-image: url("../images/texture-3.jpg");
+    background-repeat: repeat;
+    min-height:50px;
+}
+.jumbotron{
+    background-image: url("../images/kitchen.jpg");
+    background-repeat: none;
+    background-position: center center;
+
+}
+.jumbotron h1{
+    color: white;
+}
+.benefits span.glyphicon {
+    font-size: 3rem;
+    margin:0 15px;
+}
+.benefits h2{
+    display:inline-block;
+}
