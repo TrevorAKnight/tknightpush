@@ -17,6 +17,14 @@ header{
 .jumbotron h1{
     color: white;
 }
+.navbar-brand{
+    width:200px;
+    padding: 0;
+}
+.navbar-brand img{
+    max-height: 50px;
+    width: auto;
+}
 .benefits span.glyphicon {
     font-size: 3rem;
     margin:0 15px;
